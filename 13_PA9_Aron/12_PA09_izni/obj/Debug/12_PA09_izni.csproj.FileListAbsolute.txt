@@ -1,0 +1,10 @@
+C:\Users\izni syaz\Desktop\12_PA09_izni\12_PA09_izni\bin\Debug\12_PA09_izni.exe.config
+C:\Users\izni syaz\Desktop\12_PA09_izni\12_PA09_izni\bin\Debug\12_PA09_izni.exe
+C:\Users\izni syaz\Desktop\12_PA09_izni\12_PA09_izni\bin\Debug\12_PA09_izni.pdb
+C:\Users\izni syaz\Desktop\12_PA09_izni\12_PA09_izni\obj\Debug\12_PA09_izni.csprojAssemblyReference.cache
+C:\Users\izni syaz\Desktop\12_PA09_izni\12_PA09_izni\obj\Debug\_12_PA09_izni.Form1.resources
+C:\Users\izni syaz\Desktop\12_PA09_izni\12_PA09_izni\obj\Debug\_12_PA09_izni.Properties.Resources.resources
+C:\Users\izni syaz\Desktop\12_PA09_izni\12_PA09_izni\obj\Debug\12_PA09_izni.csproj.GenerateResource.cache
+C:\Users\izni syaz\Desktop\12_PA09_izni\12_PA09_izni\obj\Debug\12_PA09_izni.csproj.CoreCompileInputs.cache
+C:\Users\izni syaz\Desktop\12_PA09_izni\12_PA09_izni\obj\Debug\12_PA09_izni.exe
+C:\Users\izni syaz\Desktop\12_PA09_izni\12_PA09_izni\obj\Debug\12_PA09_izni.pdb
